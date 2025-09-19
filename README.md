@@ -4,7 +4,7 @@ An exploratory and in-depth study of the E-Commerce sales data for a Brazilian s
 ## 📚 About Project
 This particular business study focuses on the operations of Target in Brazil and provides insightful information about 100,000 orders placed between 2016 and 2018.
 
-In this study, the given dataset has been analysed to extract valuable insights from various aspects of the business and to suggest actionable recommendations. BigQuery was used for writing SQL queries and fetching data from dataset. PowerBI and Tableau were used for creating visualisations.
+In this study, the given dataset has been analysed to extract valuable insights from various aspects of the business and to suggest actionable recommendations. BigQuery was used for writing SQL queries and fetching data from dataset.
 
 ## 🧾 About Data
 The dataset offers a comprehensive view of various dimensions including the order status, price, payment and freight performance, customer location, product attributes, and customer reviews. The dataset contains 8 tables as mentioned below -
