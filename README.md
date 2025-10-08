@@ -56,3 +56,14 @@ Analysis based on the payments
 
 1. Monthly Order Placement by Payment Types?
 2. Order Placement Analysis based on Paid Instalments?
+------------------------------------------------
+👉 👉 👉 **📘 [Also See PowerBI Dashboard Here](https://github.com/swatisinghit/Target_Interactive_dashboard_PowerBI)**👈 👈 👈
+-----------------------------------------------
+## 👨‍💻 Author  
+**Swati Singh**  
+
+📧 [swati.autodidact@gmail.com](mailto:swati.autodidact@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/swatisinghlink/)  
+
+---
+
